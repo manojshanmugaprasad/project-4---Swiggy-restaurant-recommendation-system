@@ -9,7 +9,6 @@ The Streamlit application provides a user-friendly interface where users can sel
 Technologies Used
 Python
 Pandas
-NumPy
 Scikit-Learn
 Streamlit
 Cosine Similarity
